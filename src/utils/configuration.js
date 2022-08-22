@@ -11,7 +11,7 @@ export const PRICE = 0;
 export const MAX_AMOUNT = 1000;
 
 // Set the max batch size per wallet 
-export const MAX_BATCH_SIZE = 9;
+export const MAX_BATCH_SIZE = 2;
 
 // Set the opesnea url 
 export const OPENSEA_URL = "https://opensea.io/collection/"
