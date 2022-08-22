@@ -5,7 +5,7 @@ export const CONTRACTADDRESS = {
 };
 
 // Set the price of your NFT
-export const PRICE = 1;
+export const PRICE = 10;
 
 // Set the max amount of your NFT collection
 export const MAX_AMOUNT = 1000;
